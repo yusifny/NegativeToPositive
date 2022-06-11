@@ -1,0 +1,12 @@
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/obj/Debug/netcoreapp3.1/NegativeToPositive.csprojAssemblyReference.cache
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/obj/Debug/netcoreapp3.1/NegativeToPositive.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/obj/Debug/netcoreapp3.1/NegativeToPositive.AssemblyInfo.cs
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/obj/Debug/netcoreapp3.1/NegativeToPositive.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/bin/Debug/netcoreapp3.1/NegativeToPositive.deps.json
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/bin/Debug/netcoreapp3.1/NegativeToPositive.runtimeconfig.json
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/bin/Debug/netcoreapp3.1/NegativeToPositive.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/bin/Debug/netcoreapp3.1/NegativeToPositive.dll
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/bin/Debug/netcoreapp3.1/NegativeToPositive.pdb
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/obj/Debug/netcoreapp3.1/NegativeToPositive.dll
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/obj/Debug/netcoreapp3.1/NegativeToPositive.pdb
+/Users/yusifnazarbayov/Desktop/NegativeToPositive/NegativeToPositive/obj/Debug/netcoreapp3.1/NegativeToPositive.genruntimeconfig.cache
